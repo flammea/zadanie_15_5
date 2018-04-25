@@ -1,7 +1,7 @@
 {
   "name": "zadanie_14_8",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://flammea.github.io/zadanie_14_8/",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +12,15 @@
   "devDependencies": {
     "babel-polyfill": "^6.26.0",
     "http-server": "^0.11.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flammea/zadanie_15_5.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/flammea/zadanie_15_5/issues"
+  },
+  "homepage": "https://github.com/flammea/zadanie_15_5#readme"
 }
