@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans";
+  background-color: #2ABB9B;
+  color: #FFFFFF;
+}
+
+input {
+	border-radius: 40px;
+	border: 1px solid #2ABB9B;
+	margin: 20px auto;
+}
+
+h1 {
+	margin: 20px auto;
+}
+
+a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
